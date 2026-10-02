@@ -11,15 +11,6 @@ Script Python untuk membuat **GIF animasi** yang menjelaskan alur kerja Augmente
 | Resolusi | 800 x 450 px |
 | Frame rate | 12 FPS (168 frame) |
 
-## Cara Menjalankan
-
-```bash
-pip install pillow
-python ar_gif.py
-```
-
-Hasilnya muncul di folder yang sama: `AR_Pipeline_Animation.gif` dan `sheet.png` (contact sheet beberapa frame untuk pengecekan cepat).
-
 ## Alur yang Ditampilkan
 
 | Waktu | Tahap | Yang terlihat di animasi |
