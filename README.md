@@ -2,8 +2,6 @@
 
 Script Python untuk membuat **GIF animasi** yang menjelaskan alur kerja Augmented Reality (AR) secara step-by-step. Dibuat untuk tugas Mini Implementasi, Opsi 2 (Animasi/GIF).
 
-![preview](AR_Pipeline_Animation.gif)
-
 ## Output
 
 | Item | Nilai |
