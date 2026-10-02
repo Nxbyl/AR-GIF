@@ -20,8 +20,6 @@ python ar_gif.py
 
 Hasilnya muncul di folder yang sama: `AR_Pipeline_Animation.gif` dan `sheet.png` (contact sheet beberapa frame untuk pengecekan cepat).
 
-> Catatan font: path font di baris 5 memakai DejaVu Sans (Linux). Di Windows/Mac, ganti ke font yang tersedia, misalnya `C:/Windows/Fonts/arial.ttf`.
-
 ## Alur yang Ditampilkan
 
 | Waktu | Tahap | Yang terlihat di animasi |
